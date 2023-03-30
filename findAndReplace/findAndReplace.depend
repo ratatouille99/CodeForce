@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1679801712 source:d:\estructura de datos\findandreplace\main.cpp
+	<iostream>
+	<vector>
+	<string>
+

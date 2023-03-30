@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1679803423 source:d:\codeforce\findandreplace2\main.cpp
+	<iostream>
+	<unordered_set>
+	<string>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1675226285 source:d:\codeforce\makeitbeatiful\main.cpp
+	<vector>
+	<iostream>
+

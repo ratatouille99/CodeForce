@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1675577641 source:d:\codeforce\flipflopsum\main.cpp
+	<iostream>
+	<vector>
+
